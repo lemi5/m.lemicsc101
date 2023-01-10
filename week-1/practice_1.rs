@@ -1,5 +1,4 @@
 fn(){
-
-	println!("Welcome to CSC101");
-
+	println!("My first commit")
+	
 }
