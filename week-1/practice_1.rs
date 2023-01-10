@@ -1,3 +1,5 @@
-fn main() {
-	   println("Welcome to CSC101");
+fn(){
+
+	println!("Welcome to CSC101");
+
 }
